@@ -1,0 +1,9 @@
+*.swp
+.idea/*
+.gradle/*
+pipeline.iml
+out/*
+target/*
+build/*
+local.properties
+*.iml
